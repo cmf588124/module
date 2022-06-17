@@ -1,0 +1,3 @@
+[submodule "elibs/submodule"]
+	path = elibs/submodule
+	url = git@github.com:cmf588124/submodule.git
